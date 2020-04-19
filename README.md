@@ -11,4 +11,6 @@ The complete command is :
 This program predict a number the a clusters using K-means model and Scala API with SparkSession and SparkML.
 In order to validate the model I used Tableau Desktop to visualize the clusters.
 In my opinion the model 4 is the right one. 
-![One](https://www.noelshack.com/2020-16-7-1587305513-hqdefault.jpg)
+<p align="center">
+  <img src="https://www.noelshack.com/2020-16-7-1587305513-hqdefault.jpg" width="350" title="hover text">
+</p>
