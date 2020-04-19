@@ -13,3 +13,5 @@ This program predict a number the a clusters using K-means model and Scala API w
 In order to validate the model I used Tableau Desktop to visualize the clusters.
 In my opinion the model 4 is the right one. 
 
+<h2>Lire le fichier DataViz.docx</h2>
+
